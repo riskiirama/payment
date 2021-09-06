@@ -1,0 +1,4 @@
+#Mon Jun 21 15:07:28 ICT 2021
+base.0=D\:\\payment\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
